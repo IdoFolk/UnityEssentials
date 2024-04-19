@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace Systems.StateMachine
+namespace IdoFolk_Essentials.Systems.StateMachine
 {
     public abstract class State<T> : ScriptableObject 
         where T : MonoBehaviour 

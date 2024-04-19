@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Systems.StateMachine
+namespace IdoFolk_Essentials.Systems.StateMachine
 {
     public abstract class BaseStateMachine<T> : MonoBehaviour 
         where T : MonoBehaviour

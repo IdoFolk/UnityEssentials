@@ -1,7 +1,7 @@
 using Sirenix.OdinInspector;
 using UnityEngine;
 
-namespace Systems.StateMachine
+namespace IdoFolk_Essentials.Systems.StateMachine
 {
     public abstract class IntervalState<T> : State<T> 
         where T : MonoBehaviour
